@@ -1,0 +1,6 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='600'>
+  <rect width='100%' height='100%' fill='#f7f3ea'/>
+  <circle cx='400' cy='220' r='55' fill='none' stroke='#c6a75e' stroke-width='10'/>
+  <polygon points='400,300 470,390 400,475 330,390' fill='#3f5f96' stroke='#2a3f64' stroke-width='8'/>
+  <text x='400' y='530' text-anchor='middle' fill='#2f2f2f' font-size='42' font-family='Georgia'>Sapphire Pendant</text>
+</svg>

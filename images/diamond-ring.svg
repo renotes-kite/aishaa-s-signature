@@ -1,0 +1,6 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='800' height='600'>
+  <rect width='100%' height='100%' fill='#faf8f2'/>
+  <ellipse cx='400' cy='340' rx='170' ry='62' fill='none' stroke='#c6a75e' stroke-width='12'/>
+  <polygon points='400,165 455,245 400,300 345,245' fill='#e8edf3' stroke='#9aa7b4' stroke-width='6'/>
+  <text x='400' y='530' text-anchor='middle' fill='#2f2f2f' font-size='42' font-family='Georgia'>Diamond Ring</text>
+</svg>
